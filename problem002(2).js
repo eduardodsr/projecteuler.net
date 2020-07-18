@@ -18,7 +18,7 @@ while (n < 4000000) {
     n = lista[i - 1] + lista[i - 2];
     i++;
     if (n % 2 === 0) {
-        soma += n; // suma = suma + num3
+        soma += n; // soma = soma + num3
     }
 }
 
