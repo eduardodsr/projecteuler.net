@@ -4,6 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/projecteuler.net)
 ![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/projecteuler.net)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/projecteuler.net)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.projecteuler.net)
  
  
 ### Project Euler - Problems Archives 
