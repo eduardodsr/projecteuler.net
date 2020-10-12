@@ -1,6 +1,6 @@
 # projecteuler.net
 
-[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardodsr/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/projecteuler.net)
 ![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/projecteuler.net)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/projecteuler.net)
